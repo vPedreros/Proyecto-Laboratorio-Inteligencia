@@ -2,3 +2,4 @@ GPR1200/
 INRIA/
 CNN_features_db_gpr.npy
 HOG_features_db_gpr.npy
+ranks*
